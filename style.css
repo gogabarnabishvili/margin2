@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    font-size: 20px;
+    color: #ff0000;
+    margin: 10px;
+}
+p,
+li {
+    font-size: 16px;
+    color: #5b5b5b;
+}
+
+div {
+    margin: 5px 0 0 91px;
+}
+img {
+    margin: 15px 0 15px -30px;
+}
+p {
+    margin-left: 10px;
+}
